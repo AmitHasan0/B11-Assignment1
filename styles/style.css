@@ -3,6 +3,9 @@
   font-weight: 400;
   font-style: normal;
 }
+body {
+  background-color: #f1f1f3;
+}
 .sub-title {
   font-size: 24px;
   font-weight: 500;
@@ -30,6 +33,7 @@
   font-weight: 600;
   border-radius: 8px;
   padding: 25px;
+  cursor: pointer;
 }
 .banner {
   background-color: rgba(198, 228, 214, 1);
@@ -46,6 +50,8 @@
 .banner-img {
   width: 474px;
   height: 400px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 .card-section {
   margin-left: 160px;
@@ -97,6 +103,7 @@
   font-weight: 600;
   border-radius: 8px;
   padding: 11px 20px;
+  cursor: pointer;
 }
 .btn-1 {
   background-color: #5490f5;
@@ -109,4 +116,47 @@
 .btn-3 {
   background-color: #ffc239;
   border: none;
+}
+.card-btn {
+  background-color: #006a50;
+  border: none;
+}
+.card-over {
+  display: flex;
+  gap: 32px;
+  background-color: #ffffff;
+  border-radius: 24px;
+  padding: 48px 48px;
+  opacity: 100%;
+}
+.satelite {
+  border-radius: 24px;
+}
+.card-cover-2 {
+  display: flex;
+  gap: 32px;
+  background-color: #ffffff;
+  border-radius: 24px;
+  padding: 48px 48px;
+  opacity: 100%;
+  margin-top: 24px;
+}
+.taka {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+.area {
+  padding: 24px 40px;
+  border-radius: 16px;
+  background-color: #ffffff;
+}
+input {
+  width: 100%;
+  padding: 20px 40px;
+  border: none;
+  text-align: center;
+}
+.special {
+  background-color: #c6e4d6;
 }
