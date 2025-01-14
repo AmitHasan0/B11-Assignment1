@@ -152,11 +152,17 @@ body {
   background-color: #ffffff;
 }
 input {
-  width: 100%;
+  justify-content: center;
+
   padding: 20px 40px;
   border: none;
   text-align: center;
 }
 .special {
   background-color: #c6e4d6;
+}
+.last {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
