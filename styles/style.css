@@ -1,0 +1,112 @@
+.fira-sans-regular {
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.sub-title {
+  font-size: 24px;
+  font-weight: 500;
+  color: rgba(14, 14, 14, 0.5);
+}
+
+/* Idea , innovation , vision and challenges in New Bangladesh. */
+.title {
+  width: 622px;
+  height: 201px;
+  gap: 16;
+  padding: 0px;
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 67px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.btn {
+  background-color: #006a50;
+  color: #ffff;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 25px;
+}
+.banner {
+  background-color: rgba(198, 228, 214, 1);
+  padding: 80px 100px;
+  border-radius: 24px;
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 20px;
+}
+.banner-content {
+  display: flex;
+  justify-content: space-between;
+}
+.banner-img {
+  width: 474px;
+  height: 400px;
+}
+.card-section {
+  margin-left: 160px;
+  margin-right: 160px;
+}
+.section-title {
+  font-size: 40px;
+  font-weight: bold;
+  color: #0e0e0e;
+}
+.section-description {
+  color: rgba(14, 14, 14, 70%);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+/* card styles */
+.card-container {
+  display: flex;
+  gap: 24px;
+}
+.card-1 {
+  background-color: rgba(84, 144, 245, 0.2);
+  padding: 32px;
+  border-radius: 16px;
+}
+.card-2 {
+  background-color: #c6e4d6;
+  padding: 32px;
+  border-radius: 16px;
+}
+.card-3 {
+  background-color: #f7ebcf;
+  padding: 32px;
+  border-radius: 16px;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.card-description {
+  font-size: 16px;
+  font-weight: 400;
+}
+/* button style */
+.second-button {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 11px 20px;
+}
+.btn-1 {
+  background-color: #5490f5;
+  border: none;
+}
+.btn-2 {
+  background-color: #09a15c;
+  border: none;
+}
+.btn-3 {
+  background-color: #ffc239;
+  border: none;
+}
