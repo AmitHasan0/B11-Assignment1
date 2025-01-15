@@ -172,3 +172,19 @@ input {
 .extra {
   justify-content: space-between;
 }
+.challenge {
+  display: flex;
+}
+.yunus {
+  font-size: 20px;
+  font-weight: 600px;
+}
+.yunu {
+  border-radius: 16px;
+}
+.over-lay {
+  justify-conte
+}
+.over{
+  position: relative;
+}
