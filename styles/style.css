@@ -141,28 +141,34 @@ body {
   opacity: 100%;
   margin-top: 24px;
 }
-.taka {
-  display: flex;
-  justify-content: center;
-  gap: 24px;
-}
-.area {
-  padding: 24px 40px;
-  border-radius: 16px;
-  background-color: #ffffff;
-}
-input {
-  justify-content: center;
 
+input {
+  width: 100%;
+  justify-content: center;
   padding: 20px 40px;
   border: none;
   text-align: center;
 }
-.special {
-  background-color: #c6e4d6;
-}
-.last {
+.card-details {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.money-card {
+  display: flex;
+  justify-content: space-between;
+  line-height: auto;
+  letter-spacing: 0%;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: #ffffff;
+  gap: 24px;
+  border-radius: 16px;
+  padding: 40px;
+}
+.new {
+  background-color: #c6e4d6;
+}
+.extra {
+  justify-content: space-between;
 }
